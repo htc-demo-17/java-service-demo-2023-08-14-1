@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "java-service-demo-2023-08-14-1"
+  annotations:
+    "humanitec.com/orgId": "htc-demo-17"
+    "humanitec.com/appId": "java-service-demo-2023-08-14-1"
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
